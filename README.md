@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaimma&layout=compact&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhaim7&layout=compact&theme=radical" />
 </p>
 
 ---
