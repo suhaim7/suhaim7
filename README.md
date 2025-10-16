@@ -1,9 +1,9 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Suhaim!+👋;)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=fff)](https://github.com/suhaim7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/suhaim_ma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/suhaim-ma-347b5231a)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff)](mailto:suhaimma@gmail.com)
-<a href="https://www.instagram.com/_suhaim__/" target="_blank">
+<a href="https://www.instagram.com/suhaim_ma/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff" />
 </a>
 
