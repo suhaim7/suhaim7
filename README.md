@@ -30,8 +30,7 @@
 ---
 
 ## 🚧 Projects
-
-- 🔹 **SAHAYAM** – MERN Stack Disaster Response Web App for coordinating help during emergencies  
+ 
 - 🔹 **Task Manager App** – Admin assigns tasks, includes real-time team chat with Socket.IO  
 - 🔹 **E-commerce Project** – JSON Server backend for simulating CRUD operations  
 - 🔹 **Memory Game** – Fun React game project with state management. 
